@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Sonia80399/Sonia80399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc Computing Student** | 🛡️ **Cybersecurity & IT Support Specialist**
 
-Here are some ideas to get you started:
+A motivated cybersecurity enthusiast developing expertise in vulnerability assessment, threat intelligence, and system analysis. Experienced in setting up hands-on security labs, analyzing system performance, and using industry-standard tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+* **Security & Forensics:** Autopsy, Sysmon, Wireshark, Nmap, Metasploit, OpenVAS
+* **SIEM & Monitoring:** Splunk, ELK Stack
+* **Operating Systems:** Windows, Linux, macOS
+* **Scripting & Core Concepts:** Python, Active Directory, TCP/IP, Security by Design, CIA Triad
+
+---
+
+### 📁 Featured Projects & Coursework
+
+* 🛡️ **[Level 3 Cybersecurity Coursework](./cybersecurity-level3-coursework)**  
+  *Comprehensive modules covering network traffic analysis, vulnerability management, threat actors, and Security by Design principles.*
+
+---
+
+### 📜 Professional Development
+
+* **CompTIA Security+ / CySA+** (In Progress)
+* **Microsoft SC-900**
+* **TryHackMe:** Active learner completing defensive and offensive security rooms.
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [Your LinkedIn URL]
+* **Email:** [Your Email Address]
