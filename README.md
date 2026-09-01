@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sonia!👋
 
 🎓 **BSc Computing Student** | 🛡️ **Cybersecurity & IT Support Specialist**
 
@@ -31,6 +31,4 @@ A motivated cybersecurity enthusiast developing expertise in vulnerability asses
 ---
 
 ### 📫 Connect with Me
-
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Email Address]
+* **Email:** sonia_anna83@yahoo.com
