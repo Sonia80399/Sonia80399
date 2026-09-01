@@ -17,22 +17,10 @@ A motivated cybersecurity enthusiast developing expertise in vulnerability asses
 
 ### 📁 Featured Projects & Coursework
 
-* 🛡️ **[Level 3 Cybersecurity Coursework](https://github.com/YOUR-USERNAME/cybersecurity-level3-coursework)**
+* 🛡️ **[Level 3 Cybersecurity Coursework]**
   *Comprehensive modules covering network traffic analysis, vulnerability management, threat actors, and Security by Design principles.*
   cybersecurity-level3-coursework/
-│
-├── README.md                 <-- (Main overview linking to all units)
-│
-├── unit-1/
-│   └── README.md             <-- (Unit 1: Fundamentals & Security by Design)
-│
-├── unit-2/
-│   └── README.md             <-- (Unit 2 coursework)
-│
-└── unit-3/
-    └── README.md             <-- (Unit 3 coursework)
-      
----
+
 
 ### 📜 Professional Development
 
