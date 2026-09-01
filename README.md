@@ -20,11 +20,11 @@ A motivated cybersecurity enthusiast developing expertise in vulnerability asses
 * 🛡️ **[Level 3 Cybersecurity Coursework]**
   *Comprehensive modules covering network traffic analysis, vulnerability management, threat actors, and Security by Design principles.*
   cybersecurity-level3-coursework/
-# Unit 1: Cybersecurity Fundamentals & Security by Design
+
 
 ## Overview
 This repository section covers core cybersecurity principles, threat actor behaviors, vulnerability dynamics across critical sectors, and the fundamental principles of **Security by Design**.
-
+* 📄 **[View Unit 1 Coursework](./unit-1)** 
 ---
 
 
